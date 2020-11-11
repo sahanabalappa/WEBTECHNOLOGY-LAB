@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="students.css"?>
+<students>
+    <student>
+        <head>student1</head>
+        <label>Usn:<usn>1cg17cs085</usn></label>
+        <label>Name:<Name>Sahana B</Name></label>
+        <label>College:<College>Channabasaveshwara Institute Of Technology</College></label>
+        <label>Branch:<Branch>CSE</Branch></label>
+        <label>Year:<Year>2020</Year></label>
+        <label>Email:<Email>Sahanadse@gmail.com</Email></label>
+    </student>
+    <student>
+        <head>student2</head>
+        <label>Usn:<usn>1cg17cs085</usn></label>
+        <label>Name:<Name>Sahana B</Name></label>
+        <label>College:<College>Channabasaveshwara Institute Of Technology</College></label>
+        <label>Branch:<Branch>CSE</Branch></label>
+        <label>Year:<Year>2020</Year></label>
+        <label>Email:<Email>Sahanadse@gmail.com</Email></label>
+    </student>
+    <student>
+        <head>student3</head>
+        <label>Usn:<usn>1cg17cs085</usn></label>
+        <label>Name:<Name>Sahana B</Name></label>
+        <label>College:<College>Channabasaveshwara Institute Of Technology</College></label>
+        <label>Branch:<Branch>CSE</Branch></label>
+        <label>Year:<Year>2020</Year></label>
+        <label>Email:<Email>Sahanadse@gmail.com</Email></label>
+    </student>
+</students>
