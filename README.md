@@ -5,6 +5,7 @@
 https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program6
 #### Program 7
 ###### PHP program to display a digital clock which displays the current time of the server
+https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program7
 
 
 
