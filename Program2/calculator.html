@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Simple Calculator Using JavaScript
+        </title>
+        <script type="text/javascript">
+            function cal(click_id) 
+            {
+                var v1=parseFloat(document.getElementById("IP1").value);
+                var v2=parseFloat(document.getElementById("IP2").value);
+                if(isNaN(v1)||isNaN(v2))
+                    alert("Enter the valid number");
+                else if(click_id=="add")
+                    document.getElementById("res").value=v1+v2;
+                else if(click_id=="sub")
+                    document.getElementById("res").value=v1-v2;
+                else if(click_id=="mul")
+                    document.getElementById("res").value=v1*v2;
+                else if(click_id=="div")
+                    document.getElementById("res").value=v1/v2;
+            }
+        </script>
+    </head>
+    <body>
+        <h1 align="center">Simple Calculator Using JavaScript</h1>
+        <hr/>
+        <form>
+            <label>OP1<input type="text" id="ip1"/></label>
+            <label>OP2<input type="text" id="ip2"/></label>
+            <label>result<input type="text" id="res"/></label>
+            <br/><br/>
+            <input type="button" value="+" id="add" onclick="cal(this.id)"/>
+            <input type="button" value="-" id="sub" onclick="cal(this.id)"/>
+            <input type="button" value="*" id="mul" onclick="cal(this.id)"/>
+            <input type="button" value="/" id="div" onclick="cal(this.id)"/>
+            <input type="reset" value="CLEAR"/>
+        </form>
+    </body>
+</html>
