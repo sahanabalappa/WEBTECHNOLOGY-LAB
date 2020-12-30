@@ -4,6 +4,7 @@
 https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/blob/master/Program2/calculator.html
 #### program 3
 ###### Javascript program that displays Text Growing in red color and shrinking in blue color. 
+https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/blob/master/Program3.html
 #### Program 6
 ###### PHP program to keep track of the number of visitors visiting the webpages and to display the webpage and display the count of visitors with proper heading.
 https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program6
