@@ -16,7 +16,7 @@ https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/blob/master/Program3.html
 ###### d) Output:The number with its digits in the reverse order
 https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program4
 #### Program 5
-###### XML Document to 
+###### XML document to store information about a student in an engineering college affiliated to VTU. The information must include USN, Name, and Name of the College, Branch, Year of Joining, and email id. Make up sample data for 3 students. Create a CSS style sheet and use it to display the document. 
 #### Program 6
 ###### PHP program to keep track of the number of visitors visiting the webpages and to display the webpage and display the count of visitors with proper heading.
 https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program6
