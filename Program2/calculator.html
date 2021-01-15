@@ -24,17 +24,26 @@
     </head>
     <body>
         <h1 align="center">Simple Calculator Using JavaScript</h1>
-        <hr/>
-        <form align="center">
+        <table style="background-color:yellow" align=="center">
+        <tr>
+        <td>
+        <form method="get" action=" ">
+            <div width=50% align="center">
             <label>OP1<input type="text" id="ip1"/></label>
             <label>OP2<input type="text" id="ip2"/></label>
             <label>result<input type="text" id="res"/></label>
-            <br/><br/>
+            </div><br/><br/>
+            <div width=50% align="center">
             <input type="button" value="+" id="add" onclick="cal(this.id)"/>
             <input type="button" value="-" id="sub" onclick="cal(this.id)"/>
             <input type="button" value="*" id="mul" onclick="cal(this.id)"/>
             <input type="button" value="/" id="div" onclick="cal(this.id)"/>
             <input type="reset" value="CLEAR"/>
+            </div>
         </form>
+        </td>
+        </tr>
+        </table>
+        </center>
     </body>
 </html>
