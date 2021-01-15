@@ -25,6 +25,12 @@ https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program6
 ###### PHP program to display a digital clock which displays the current time of the server
 https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program7
 #### Program 8
+###### PHP Program to 
+###### a)Implement Simple calculator Operations 
+###### b)Find the transpose of a matrix 
+###### c)Multiplication of Two Matrices
+###### d)Addition of Two matrices
+https://github.com/sahanabalappa/WEBTECHNOLOGY-LAB/tree/master/program8
 #### Program 9
 ###### PHP program named states.php that declares a variable states with value "Mississipi Alabama Texas Massachusetts Kansas" That does the following 
 ###### a)Search for a word in variable states that ends with xas.store this word in element 0 of a list named statesArray/statesList.
