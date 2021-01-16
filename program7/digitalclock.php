@@ -18,5 +18,8 @@ body
 </style>
 </head>
 <body>
-<p><?php echo date("h:i:s A");?></p></body>
+<p><?php 
+    date_default_timezone_set("Asia/Kolkata");
+    echo date("h:i:s A");?></p>
+</body>
 </html>
