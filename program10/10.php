@@ -39,3 +39,13 @@
 		echo "<tr><td>$row[0]</td><td>$row[1]</td><td>$row[2]</td></tr>";
 	}
 ?>
+
+
+
+database commands:
+
+mysql -u root
+create database citstudents
+use citstudents;
+create table citstudentinfo(usn varchar(10),name varchar(20),address varchar(30));
+insert into citstudentinfo values("18cs97","abc","delhi");
